@@ -1,0 +1,6 @@
+{
+  "name": "Tampa Dentistry | Dr. Amy L. Iglesias, DMD",
+  "description": "Premier cosmetic, implant, and family dental practice in Tampa, FL led by Dr. Amy L. Iglesias, DMD. Ethical, gentle, and transformative dental care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
